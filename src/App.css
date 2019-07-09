@@ -31,3 +31,24 @@
     transform: rotate(360deg);
   }
 }
+
+
+/* General */
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+ul {
+  margin: 0;
+  padding: 10px;
+  list-style: none;
+  color: #fff;
+}
+
+/* Components */
+
+.Nav {
+  background-color: #444;
+}
